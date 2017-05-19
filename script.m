@@ -1,4 +1,5 @@
 %%
+%Also testing the github as well. 
 %Read the first image and take the 7 visible points as pixels. 
 il=imread('il.jpg');
 imshow(il);
